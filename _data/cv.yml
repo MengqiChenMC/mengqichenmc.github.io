@@ -1,0 +1,123 @@
+cv:
+  name: Mengqi Chen
+  label: PhD Student in Statistics
+  email: mengqi.chen.2@warwick.ac.uk
+  location: Coventry, United Kingdom
+  summary: PhD student in the Mathematics and Statistics CDT at the University of Warwick, working on robust Bayesian inference and distributionally robust methods.
+
+  social_networks:
+    - network: GitHub
+      username: MengqiChenMC
+
+  sections:
+    Education:
+      - institution: University of Warwick
+        location: Coventry, United Kingdom
+        area: Statistics
+        studyType: PhD
+        start_date: 2023-10
+        end_date: 2027-10
+        highlights:
+          - Organiser of the Warwick Machine Learning Group reading groups.
+
+      - institution: University of Cambridge
+        location: Cambridge, United Kingdom
+        area: Mathematics
+        studyType: MMath, BA
+        start_date: 2019-10
+        end_date: 2023-06
+        highlights:
+          - Full Jardine Foundation scholarship (approximately GBP 170k) for the duration of the degree.
+          - "Master's essay: Theory and Applications of Maximum Mean Discrepancy."
+
+    Experience:
+      - company: Department of Statistics, University of Warwick
+        position: Senior Graduate Teaching Assistant
+        location: Coventry, United Kingdom
+        start_date: 2024-01
+        end_date: Present
+        highlights:
+          - Tutoring and marking for ST117 Introduction to Statistical Modelling and ST121 Statistical Laboratory.
+          - Marking for the master's course Statistical Learning and Big Data.
+
+      - company: Oxehealth (now LIO)
+        position: Research Intern
+        location: Oxford, United Kingdom
+        start_date: 2022-06
+        end_date: 2022-09
+        highlights:
+          - Evaluated algorithm performance with accuracy statistics and unsupervised machine learning.
+          - Developed time series algorithms achieving 81% precision and 98% recall.
+          - Built Python tooling for video-data processing to speed up ground-truthing by 400%.
+
+      - company: Silvaco Europe LTD
+        position: Research and Technology Intern
+        location: St Ives, United Kingdom
+        start_date: 2021-06
+        end_date: 2021-08
+        highlights:
+          - Implemented distribution parsing and ion sampling modules in C++.
+          - Tested sampling models with statistical validation methods including KS and GoF tests.
+          - Built MATLAB and C++ models for high-energy ion implantation depth profiles.
+
+      - company: Harvard Summit for Young Leaders in China
+        position: Core Lecturer
+        location: Remote
+        start_date: 2020-08
+        end_date: 2020-08
+        highlights:
+          - Delivered lectures on RSA encoding and related number-theory topics to a class of 50 students.
+
+    Awards:
+      - title: ICML Spotlight (Bulk-Calibrated Credal Ambiguity Sets)
+        date: 2026
+        awarder: International Conference on Machine Learning
+        summary: Spotlight paper recognition (top 2.2% of submitted papers).
+
+      - title: Jardine Foundation Scholarship
+        date: 2019
+        awarder: Jardine Foundation
+        summary: Full scholarship covering the duration of studies at the University of Cambridge.
+
+    Publications:
+      - title: "Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination"
+        releaseDate: 2026
+        publisher: ICML 2026
+        url: https://arxiv.org/abs/2601.21324
+        summary: M. Chen, T. B. Berrett, T. Damoulas, M. Caprio.
+
+      - title: Imprecise Markov Semigroups and their Ergodicity
+        releaseDate: 2026
+        publisher: "ESAIM: Probability and Statistics (to appear)"
+        url: https://arxiv.org/abs/2405.00081
+        summary: M. Caprio, M. Chen.
+
+      - title: "Total Robustness in Bayesian Nonlinear Regression for Measurement Error Problems under Model Misspecification"
+        releaseDate: 2025
+        publisher: arXiv preprint
+        url: https://arxiv.org/abs/2510.03131
+        summary: M. Chen, C. Dellaporta, T. B. Berrett, T. Damoulas.
+
+    Presentations:
+      - bullet: June 2026 - Invited talk at OxCSML Seminar, University of Oxford.
+      - bullet: March 2026 - Invited talk at Fundamentals of Statistical Machine Learning Group Meetings, University College London.
+      - bullet: October 2025 - Invited talk at AI Fundamentals Research Forum, University of Manchester.
+
+    Skills:
+      - name: Programming
+        keywords:
+          - Python (Gurobi, MOSEK, JAX, PyTorch)
+          - R
+          - C++
+          - MATLAB
+          - Git
+          - Linux
+
+    Interests:
+      - name: Personal
+        keywords:
+          - Board games
+          - Singing
+          - Knitting
+          - Crocheting
+          - Origami
