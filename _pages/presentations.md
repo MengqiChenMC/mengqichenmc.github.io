@@ -11,7 +11,7 @@ _styles: |
   }
 ---
 
-- 📍**Jun 2026** - University of Lancaster | LAI Reading Group  
+- 📍**Jun 2026** - Lancaster University | LAI Reading Group  
   *Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination*
 
 - 📍**Jun 2026** - University of Oxford | OxCSML Seminar Talk  
