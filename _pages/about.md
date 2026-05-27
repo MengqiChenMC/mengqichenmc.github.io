@@ -30,3 +30,5 @@ Before joining Warwick, I completed an MMath and BA in Mathematics at the Univer
 Outside research, I enjoy singing, knitting, crocheting, and board games. My Chinese name is 陈梦琪.
 
 Here is a [RIS to BibTeX converter](https://mengqichenmc.github.io/ris-to-bib-converter/) I made.
+
+I have reviewed for the Journal of Artificial Intelligence (AIJ) and IJCAI-ECAI (Bronze tier reviewer).
