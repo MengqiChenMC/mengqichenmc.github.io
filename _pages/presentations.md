@@ -11,7 +11,7 @@ _styles: |
   }
 ---
 
-- 📍**July 2026** - Shanghai Jiao Tong University | Seminars  
+- 📍**July 2026** - Shanghai Jiao Tong University  
   *Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination*
 
 - 📍**Jun 2026** - Lancaster University | LAI Reading Group  
