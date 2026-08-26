@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-26'
 papers:
   XngN0t8AAAAJ:2osOgNQ5qMEC:
-    citations: 0
+    citations: 1
     title: 'Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination'
     year: '2026'
   XngN0t8AAAAJ:9yKSN-GCB0IC:
@@ -10,10 +10,6 @@ papers:
     title: Total Robustness in Bayesian Nonlinear Regression for Measurement Error Problems under Model Misspecification
     year: '2025'
   XngN0t8AAAAJ:kNdYIx-mwKoC:
-    citations: 0
+    citations: 6
     title: Imprecise Markov semigroups and their ergodicity
     year: '2026'
-  XngN0t8AAAAJ:qjMakFHDy7sC:
-    citations: 5
-    title: Imprecise Markov Semigroups and their Ergodicity
-    year: '2024'
